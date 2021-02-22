@@ -1,5 +1,5 @@
 {
-    "name": "sylius/user",
+    "name": "dotdev/sylius-user",
     "type": "library",
     "description": "User handling for PHP applications.",
     "keywords": [
